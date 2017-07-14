@@ -12,7 +12,6 @@ class WBBaseViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
        view.backgroundColor = UIColor.cz_random()
     }
 
